@@ -1,6 +1,6 @@
 # Vision Board - Skillcrush Starter
 ## 2020 Vision Board, version #1, non responsive
-### View the [live project here.](https://kirstendarling.github.io/vision-board/)
+### View the [live project here.](https://kirstendarling.github.io/Vision-Board-Skillcrush-Starter/)
 
 ### Screenshot
 
